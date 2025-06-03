@@ -59,10 +59,13 @@ section{
     padding: 30px;
     font-family: var(--font3);
     font-size: 3.5vw;
+<<<<<<< HEAD
 }
 
 section > p {
     padding-bottom: 2em;
+=======
+>>>>>>> d0cbaf0d51a35af7562b3acd84a3b793ac110f0d
 }
 
 section.normal{
@@ -81,8 +84,12 @@ section.imagem{
 section.imagem > p{
     display: inline-block;
     padding: 5px;
+<<<<<<< HEAD
     background-color: rgba(0, 0, 0, 0.514);
     text-shadow: 1px 1px 0px black;
+=======
+    background-color: grey;
+>>>>>>> d0cbaf0d51a35af7562b3acd84a3b793ac110f0d
 }
 
 
