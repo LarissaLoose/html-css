@@ -59,12 +59,21 @@ section {
     padding: 30px;
     font-family: var(--font3);
     font-size: 3.5vw;
+<<<<<<< HEAD
     <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> b8f89193f329d1e7d6cdaa183ba4f26c7db14cbd
 }
 
 section>p {
     padding-bottom: 2em;
+<<<<<<< HEAD
 
+=======
+=======
+>>>>>>> d0cbaf0d51a35af7562b3acd84a3b793ac110f0d
+>>>>>>> b8f89193f329d1e7d6cdaa183ba4f26c7db14cbd
 }
 
 section.normal {
@@ -83,9 +92,18 @@ section.imagem {
 section.imagem>p {
     display: inline-block;
     padding: 5px;
+<<<<<<< HEAD
     background-color: rgba(0, 0, 0, 0.514);
     text-shadow: 1px 1px 0px black;
     background-color: grey;
+=======
+<<<<<<< HEAD
+    background-color: rgba(0, 0, 0, 0.514);
+    text-shadow: 1px 1px 0px black;
+=======
+    background-color: grey;
+>>>>>>> d0cbaf0d51a35af7562b3acd84a3b793ac110f0d
+>>>>>>> b8f89193f329d1e7d6cdaa183ba4f26c7db14cbd
 }
 
 
