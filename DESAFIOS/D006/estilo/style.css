@@ -28,7 +28,7 @@ header {
     background-color: black;
     color: white;
     text-align: center;
-    
+
 }
 
 header>h1 {
@@ -52,58 +52,54 @@ a:hover {
     text-decoration: underline;
 }
 
-section{
+section {
     padding-top: 10vh;
     padding-bottom: 10vh;
     line-height: 2em;
     padding: 30px;
     font-family: var(--font3);
     font-size: 3.5vw;
-<<<<<<< HEAD
+    <<<<<<< HEAD
 }
 
-section > p {
+section>p {
     padding-bottom: 2em;
-=======
->>>>>>> d0cbaf0d51a35af7562b3acd84a3b793ac110f0d
+
 }
 
-section.normal{
+section.normal {
     background-color: white;
     color: black;
 }
 
-section.imagem{
-    background-color: rgb(51,51,51);
-     color: white;
+section.imagem {
+    background-color: rgb(51, 51, 51);
+    color: white;
     box-shadow: 6px 6px 13px 0px rgba(0, 0, 0, 0.473);
-     background-size: cover;
+    background-size: cover;
     background-attachment: fixed;
 }
 
-section.imagem > p{
+section.imagem>p {
     display: inline-block;
     padding: 5px;
-<<<<<<< HEAD
     background-color: rgba(0, 0, 0, 0.514);
     text-shadow: 1px 1px 0px black;
-=======
     background-color: grey;
->>>>>>> d0cbaf0d51a35af7562b3acd84a3b793ac110f0d
 }
 
 
-section#img01{
+section#img01 {
     background-image: url(../imagens/background001.jpg);
-    background-position: right center;   
+    background-position: right center;
 }
 
-section#img02{
+section#img02 {
     background-image: url(../imagens/background002.jpg);
-  
+
 }
 
-footer{
+footer {
     background-color: black;
     color: white;
     text-align: center;
